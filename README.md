@@ -5,6 +5,8 @@ my collection of interesting articles
 
 https://medium.com/the-mission/up-to-speed-on-deep-learning-in-medical-imaging-7ff1e91f6d71
 
+https://stackoverflow.com/questions/45969974/what-is-the-most-efficient-way-to-plot-3d-array-in-python
+
 # Git
 
 How to securely store api keys:
