@@ -7,6 +7,8 @@ https://medium.com/the-mission/up-to-speed-on-deep-learning-in-medical-imaging-7
 
 https://stackoverflow.com/questions/45969974/what-is-the-most-efficient-way-to-plot-3d-array-in-python
 
+https://plot.ly/python/visualizing-mri-volume-slices/
+
 # Git
 
 How to securely store api keys:
