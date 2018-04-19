@@ -9,6 +9,14 @@ http://sci-hub.hk/
 
 https://www.mendeley.com/
 
+# Blogs
+
+Old Karpathy blog: https://karpathy.github.io/
+
+New Karpathy blog: https://medium.com/@karpathy/
+
+https://colah.github.io/
+
 # Medical Imaging and deep learning
 
 https://medium.com/the-mission/up-to-speed-on-deep-learning-in-medical-imaging-7ff1e91f6d71
