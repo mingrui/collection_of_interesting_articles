@@ -11,6 +11,9 @@ https://plot.ly/python/visualizing-mri-volume-slices/
 
 https://pypi.org/project/MedPy/
 
+This guy's stuff is pretty amazing, seriously check it out:
+https://www.raddq.com/dicom-processing-segmentation-visualization-in-python/
+
 # Git
 
 How to securely store api keys:
