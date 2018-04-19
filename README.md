@@ -14,6 +14,8 @@ https://pypi.org/project/MedPy/
 This guy's stuff is pretty amazing, seriously check it out:
 https://www.raddq.com/dicom-processing-segmentation-visualization-in-python/
 
+Embedding medical image with dna data? https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
+
 # Git
 
 How to securely store api keys:
