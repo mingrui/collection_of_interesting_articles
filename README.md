@@ -9,6 +9,8 @@ https://stackoverflow.com/questions/45969974/what-is-the-most-efficient-way-to-p
 
 https://plot.ly/python/visualizing-mri-volume-slices/
 
+https://pypi.org/project/MedPy/
+
 # Git
 
 How to securely store api keys:
