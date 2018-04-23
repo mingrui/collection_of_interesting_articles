@@ -34,6 +34,8 @@ Embedding medical image with dna data? https://colah.github.io/posts/2014-07-NLP
 
 Nice tutorials: https://dpaniukov.github.io/2016/06/06/brain-extraction-with-ants.html
 
+https://bitbucket.org/njhunsaker/byu-mri-guide/wiki/preprocessing_antscorticalthickness
+
 # Git
 
 How to securely store api keys:
