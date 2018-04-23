@@ -36,6 +36,8 @@ Nice tutorials: https://dpaniukov.github.io/2016/06/06/brain-extraction-with-ant
 
 https://bitbucket.org/njhunsaker/byu-mri-guide/wiki/preprocessing_antscorticalthickness
 
+Creator of ANTs: https://github.com/stnava
+
 # Git
 
 How to securely store api keys:
