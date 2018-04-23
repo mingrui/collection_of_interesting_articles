@@ -38,6 +38,8 @@ https://bitbucket.org/njhunsaker/byu-mri-guide/wiki/preprocessing_antscorticalth
 
 Creator of ANTs: https://github.com/stnava
 
+ANTs talk: https://stnava.github.io/ANTsTalk
+
 # Git
 
 How to securely store api keys:
