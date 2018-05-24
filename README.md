@@ -1,5 +1,8 @@
-# collection_of_interesting_articles
-my collection of interesting articles
+# my collection of interesting articles
+
+# Books
+
+https://github.com/TechBookHunter/Free-Text-Editor-Books
 
 # Tools
 
