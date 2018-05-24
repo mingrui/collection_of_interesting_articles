@@ -25,6 +25,7 @@ https://www.reddit.com/r/MachineLearning/comments/8lduw7/p_3d_printed_robot_cat_
 
 https://users-cs.au.dk/chili/PBI/pythonpath.html <br>
 http://python-notes.curiousefficiency.org/en/latest/index.html <br>
+https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html <br>
 
 # Medical Imaging and deep learning
 
