@@ -20,6 +20,8 @@ New Karpathy blog: https://medium.com/@karpathy/
 
 https://colah.github.io/
 
+http://python-notes.curiousefficiency.org/en/latest/index.html
+
 # Medical Imaging and deep learning
 
 https://medium.com/the-mission/up-to-speed-on-deep-learning-in-medical-imaging-7ff1e91f6d71
