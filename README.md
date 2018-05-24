@@ -40,6 +40,10 @@ https://bitbucket.org/njhunsaker/byu-mri-guide/wiki/preprocessing_antscorticalth
 Creator of ANTs: https://github.com/stnava <br>
 ANTs talk: https://stnava.github.io/ANTsTalk <br>
 
+CRF
+https://github.com/lucasb-eyer/pydensecrf <br>
+https://github.com/mbickel/DenseInferenceWrapper <br>
+
 # Git
 
 How to securely store api keys: <br>
